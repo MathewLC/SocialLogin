@@ -1,0 +1,12 @@
+C:\Users\mateus.camilo\source\repos\SocialLogin\SocialLogin\SocialLogin\bin\Debug\netstandard2.0\SocialLogin.deps.json
+C:\Users\mateus.camilo\source\repos\SocialLogin\SocialLogin\SocialLogin\bin\Debug\netstandard2.0\SocialLogin.dll
+C:\Users\mateus.camilo\source\repos\SocialLogin\SocialLogin\SocialLogin\bin\Debug\netstandard2.0\SocialLogin.pdb
+C:\Users\mateus.camilo\source\repos\SocialLogin\SocialLogin\SocialLogin\obj\Debug\netstandard2.0\SocialLogin.csprojAssemblyReference.cache
+C:\Users\mateus.camilo\source\repos\SocialLogin\SocialLogin\SocialLogin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mateus.camilo\source\repos\SocialLogin\SocialLogin\SocialLogin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mateus.camilo\source\repos\SocialLogin\SocialLogin\SocialLogin\obj\Debug\netstandard2.0\SocialLogin.csproj.CoreCompileInputs.cache
+C:\Users\mateus.camilo\source\repos\SocialLogin\SocialLogin\SocialLogin\obj\Debug\netstandard2.0\SocialLogin.AssemblyInfoInputs.cache
+C:\Users\mateus.camilo\source\repos\SocialLogin\SocialLogin\SocialLogin\obj\Debug\netstandard2.0\SocialLogin.AssemblyInfo.cs
+C:\Users\mateus.camilo\source\repos\SocialLogin\SocialLogin\SocialLogin\obj\Debug\netstandard2.0\SocialLogin.dll
+C:\Users\mateus.camilo\source\repos\SocialLogin\SocialLogin\SocialLogin\obj\Debug\netstandard2.0\SocialLogin.pdb
+C:\Users\mateus.camilo\source\repos\SocialLogin\SocialLogin\SocialLogin\obj\Debug\netstandard2.0\LoginFacebookPage.xaml.g.cs
