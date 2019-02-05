@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialLogin.Android", "Soci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialLogin.iOS", "SocialLogin\SocialLogin.iOS\SocialLogin.iOS.csproj", "{200B2F4F-98B6-469C-8DBF-E67DE1FD714C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialLogin", "SocialLogin\SocialLogin\SocialLogin.csproj", "{E77040FD-776A-4C81-8894-23DB9B85655D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialLogin", "SocialLogin\SocialLogin\SocialLogin.csproj", "{E77040FD-776A-4C81-8894-23DB9B85655D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -80,7 +80,6 @@ Global
 		{200B2F4F-98B6-469C-8DBF-E67DE1FD714C}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
 		{200B2F4F-98B6-469C-8DBF-E67DE1FD714C}.AppStore|iPhoneSimulator.Deploy.0 = AppStore|iPhoneSimulator
 		{200B2F4F-98B6-469C-8DBF-E67DE1FD714C}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
-		{200B2F4F-98B6-469C-8DBF-E67DE1FD714C}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
 		{200B2F4F-98B6-469C-8DBF-E67DE1FD714C}.Debug|Any CPU.Deploy.0 = Debug|iPhoneSimulator
 		{200B2F4F-98B6-469C-8DBF-E67DE1FD714C}.Debug|iPhone.ActiveCfg = Debug|iPhone
 		{200B2F4F-98B6-469C-8DBF-E67DE1FD714C}.Debug|iPhone.Build.0 = Debug|iPhone

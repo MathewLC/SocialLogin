@@ -13,9 +13,9 @@
                  Padding="0,20,0,50">
 
                 <Image Source="{Binding FacebookProfile.Picture.Data.Url}"
-             HeightRequest="100"
-             WidthRequest="100"
-             VerticalOptions="Start"/>
+                        HeightRequest="{Binding FacebookProfile.Picture.Data.height}"
+                        WidthRequest="{Binding FacebookProfile.Picture.Data.width}"
+                        VerticalOptions="Start"/>
 
                 <StackLayout Orientation="Vertical">
 

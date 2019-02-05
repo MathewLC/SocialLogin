@@ -13,15 +13,18 @@ namespace SocialLogin
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class LoginFacebookPage : ContentPage
 	{
+        //your client id must be put here
         private string ClientId = "******************";
         public LoginFacebookPage ()
 		{
 			InitializeComponent ();
-            
+            string quote = "\"";
             var apiRequest =
-                "https://www.facebook.com/dialog/oauth?client_id="
-                + ClientId
-                + "&display=popup&response_type=token&redirect_uri=http://www.facebook.com/connect/login_success.html";
+                    "https://www.facebook.com/v3.2/dialog/oauth?client_id="
+                +   ClientId
+                +   "&display=popup&response_type=token&redirect_uri=http://www.facebook.com/connect/login_success.html"+
+                "   &auth_type=rerequest"
+                +   "&state ={st=state123abc,ds=123456789}";
 
             var webView = new WebView
             {

@@ -13,7 +13,7 @@ namespace SocialLogin.Services
         public async Task<FacebookProfile> GetFacebookProfileAsync(string accessToken)
         {
             var requestUrl =
-                "https://graph.facebook.com/v2.7/me/?fields=name,picture,work,website,religion,location,locale,link,cover,bio,birthday,devices,email,first_name,last_name,hometown,is_verified,languages&access_token="
+                "https://graph.facebook.com/v3.2/me/?fields=id,first_name,last_name,middle_name,name,name_format,picture,short_name,birthday,hometown,location,friends,gender,age_range,email&access_token="
                 + accessToken;
 
             var httpClient = new HttpClient();

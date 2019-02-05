@@ -8,6 +8,7 @@ namespace SocialLogin.Model
     public class FacebookProfile
     {
         public string Name { get; set; }
+        public string Email { get; set; }
         public Picture Picture { get; set; }
         public string Locale { get; set; }
         public string Link { get; set; }
@@ -36,6 +37,8 @@ namespace SocialLogin.Model
     {
         public bool IsSilhouette { get; set; }
         public string Url { get; set; }
+        public Decimal height { get; set; }
+        public Decimal width { get; set; }
     }
 
     public class Cover
